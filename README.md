@@ -1,2 +1,2 @@
 # Machine-Learning
-Various projects in Machine learning 
+Simple Image Classifier as a web app.
